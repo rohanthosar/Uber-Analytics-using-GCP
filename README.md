@@ -20,4 +20,8 @@ Modern Data Pipeine Tool - https://www.mage.ai/
 # Data Model #
 ![Untitled presentation (2)](https://github.com/rohanthosar/Uber-Analytics-using-GCP/assets/135412532/8a95c97f-024f-4134-8a34-291effe2e8de)
 
+# Dashboard Link #
+![Copy_of_Uber_Dashboard_page-0001](https://github.com/rohanthosar/Uber-Analytics-using-GCP/assets/135412532/fde394f3-2628-494f-b500-f05f2d9f4956)
+
+
 
